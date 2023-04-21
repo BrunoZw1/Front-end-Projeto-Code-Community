@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.headbuttons {
+    text-align: center;
+    text-decoration: none;
+}
+
+.bannerhero {
+    background-image: url(assets/banner-hero.png);
+    background-size: cover;
+    text-align: start;
+
+}
